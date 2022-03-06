@@ -11,6 +11,5 @@ def remove_chars(stringToModify,charsToRemove):
     else:
         print("The modified string is " +stringToModify[charsToRemove:])
 
-
 remove_chars('pynative',3 )
 
